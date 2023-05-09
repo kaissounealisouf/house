@@ -186,7 +186,7 @@
 }
  .back-section .door .panel {
 	 background: #ccc;
-	 background: linear-gradient(180deg, #c0c0c0 0, #f2f2f2 60px, #c0c0c0 120px);
+	 background: linear-gradient(180deg, #c0c0c0 0, 60px, #c0c0c0 120px);
 	 backface-visibility: hidden;
 }
  .back-section .door .panel.-top {
@@ -273,7 +273,7 @@
  .floor-section .panel {
 	 width: 500px;
 	 height: 140px;
-	 background: repeating-radial-gradient(ellipse at right top, rgba(255, 255, 255, 0) 0, rgba(255, 255, 255, 0.02) 10px), linear-gradient(0deg, #c1c2c6, #a2a29e);
+	 background: repeating-radial-gradient(ellipse at right top, 0, rgba(255, 255, 255, 0.02) 10px), linear-gradient(0deg, #c1c2c6, #a2a29e);
 	 transform: translate3d(0px, 130px, -30px) rotateX(90deg);
 	 backface-visibility: hidden;
 }
