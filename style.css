@@ -308,13 +308,13 @@
  .seat-section .cussion.-front {
 	 width: 320px;
 	 height: 10px;
-	 background: linear-gradient(0deg, rgba(81, 99, 166, 0) 50%, rgba(99, 166, 0.5) 100%), repeating-linear-gradient(90deg, skyblue 0, #26294f 10px, #26294f 30px, gold 40px);
+	 background: linear-gradient(0deg, rgba(56, 57, 58, 0) 50%, rgba(99, 166, 0.5) 100%), repeating-linear-gradient(90deg, skyblue 0, silver 10px, #515257 30px, gold 40px);
 	 transform: translate3d(180px, 170px, -45px);
 }
  .seat-section .cussion.-bottom {
 	 width: 320px;
 	 height: 10px;
-	 background: #00a;
+	 background: rgb(110, 110, 116);
 	 transform: translate3d(180px, 175px, -50px) rotateX(-90deg);
 }
  .seat-section .mecha.-front {
